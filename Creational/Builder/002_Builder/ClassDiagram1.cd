@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="_002_Builder.Cook">
+    <Position X="1.75" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAACAA=</HashCode>
+      <FileName>Cook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_002_Builder.Hamburger">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAEAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hamburger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_002_Builder.MyHamburgerBuilder">
+    <Position X="4.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAABAAAAAAAAAAAAAAAwAAAAgAAAEAAAAA=</HashCode>
+      <FileName>MyHamburgerBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_002_Builder.WifesHamburgerBuilder">
+    <Position X="7.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAABAAAAAAAAAAAAAAAwAAAAgAAAEAAAAA=</HashCode>
+      <FileName>WifesHamburgerBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="_002_Builder.IBuilder">
+    <Position X="6" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAABAAAAAAAAAAAAAAAwAAAAAAAAEAAAAA=</HashCode>
+      <FileName>IBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
