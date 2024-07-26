@@ -1,5 +1,3 @@
-using System;
-
 namespace _002_Visitor
 {
     public class LivingRoomVisitor : IUnitVisitor
