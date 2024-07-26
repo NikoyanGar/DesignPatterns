@@ -97,45 +97,51 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Template_Method", "Beha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Visitor", "Behavioral\Visitor\001_Visitor\001_Visitor.csproj", "{20844C6B-DF6A-437D-AFE0-E0246F20D51E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Adapter", "Structural\Adapter\002_Adapter\002_Adapter.csproj", "{D217BFD9-4BED-473C-A738-4E9C066FF44D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Adapter", "Structural\Adapter\002_Adapter\002_Adapter.csproj", "{D217BFD9-4BED-473C-A738-4E9C066FF44D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Bridge", "Structural\Bridge\002_Bridge\002_Bridge.csproj", "{FDFC6F73-BE78-49EE-90B3-67D5EC5CBB34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Bridge", "Structural\Bridge\002_Bridge\002_Bridge.csproj", "{FDFC6F73-BE78-49EE-90B3-67D5EC5CBB34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Builder", "Creational\Builder\002_Builder\002_Builder.csproj", "{DE5AE0C3-BB4B-4784-AAC2-5230F51BB241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Builder", "Creational\Builder\002_Builder\002_Builder.csproj", "{DE5AE0C3-BB4B-4784-AAC2-5230F51BB241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Command", "Behavioral\Command\002_Command\002_Command.csproj", "{2018EBC9-74D5-4C09-B4D7-F11C37D685A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Command", "Behavioral\Command\002_Command\002_Command.csproj", "{2018EBC9-74D5-4C09-B4D7-F11C37D685A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Composite", "Structural\Composite\002_Composite\002_Composite.csproj", "{AEAAB02B-FB67-4A67-83C4-50283C68E073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Composite", "Structural\Composite\002_Composite\002_Composite.csproj", "{AEAAB02B-FB67-4A67-83C4-50283C68E073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Decorator", "Structural\Decorator\002_Decorator\002_Decorator.csproj", "{C559FDDC-0014-4ED7-B44C-9153237AB68D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Decorator", "Structural\Decorator\002_Decorator\002_Decorator.csproj", "{C559FDDC-0014-4ED7-B44C-9153237AB68D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Facade", "Structural\Facade\002_Facade\002_Facade.csproj", "{990C47BD-5FF6-4892-93F9-8E1D3059B6E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Facade", "Structural\Facade\002_Facade\002_Facade.csproj", "{990C47BD-5FF6-4892-93F9-8E1D3059B6E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Factory", "Creational\Factory\002_Factory\002_Factory.csproj", "{B5488AF6-2749-4D56-96BC-F29AB9B8791C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Factory", "Creational\Factory\002_Factory\002_Factory.csproj", "{B5488AF6-2749-4D56-96BC-F29AB9B8791C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Flyweight", "Structural\Flyweight\002_Flyweight\002_Flyweight.csproj", "{5A192F3A-9C84-4A6E-AC1E-966E8E2542E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Flyweight", "Structural\Flyweight\002_Flyweight\002_Flyweight.csproj", "{5A192F3A-9C84-4A6E-AC1E-966E8E2542E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Iterator", "Behavioral\Iterator\002_Iterator\002_Iterator.csproj", "{082B469E-3AE9-417D-8CC0-186827B16447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Iterator", "Behavioral\Iterator\002_Iterator\002_Iterator.csproj", "{082B469E-3AE9-417D-8CC0-186827B16447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Mediator", "Behavioral\Mediator\002_Mediator\002_Mediator.csproj", "{3DF94CE4-4B9A-4A62-BBA1-A1AA2DEBE1AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Mediator", "Behavioral\Mediator\002_Mediator\002_Mediator.csproj", "{3DF94CE4-4B9A-4A62-BBA1-A1AA2DEBE1AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Observer", "Behavioral\Observer\002_Observer\002_Observer.csproj", "{7470467B-F9C7-4789-9B38-2B9296036F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Observer", "Behavioral\Observer\002_Observer\002_Observer.csproj", "{7470467B-F9C7-4789-9B38-2B9296036F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Prototype", "Creational\Prototype\002_Prototype\002_Prototype.csproj", "{7F8EB561-9427-4D59-8E78-3A491B17644C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Prototype", "Creational\Prototype\002_Prototype\002_Prototype.csproj", "{7F8EB561-9427-4D59-8E78-3A491B17644C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Proxy", "Structural\Proxy\002_Proxy\002_Proxy.csproj", "{39C13252-E43E-40B0-93EC-61F9116787A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Proxy", "Structural\Proxy\002_Proxy\002_Proxy.csproj", "{39C13252-E43E-40B0-93EC-61F9116787A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Singleton", "Creational\Singleton\002_Singleton\002_Singleton.csproj", "{38360997-7641-415B-8C9D-2705FD24F2F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Singleton", "Creational\Singleton\002_Singleton\002_Singleton.csproj", "{38360997-7641-415B-8C9D-2705FD24F2F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Singleton.Tests", "Creational\Singleton\002_Singleton.Tests\002_Singleton.Tests.csproj", "{18CB5397-0122-427D-B81F-9DC1038CAB3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Singleton.Tests", "Creational\Singleton\002_Singleton.Tests\002_Singleton.Tests.csproj", "{18CB5397-0122-427D-B81F-9DC1038CAB3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_State", "Behavioral\State\002_State\002_State.csproj", "{805D3E36-E3FB-46B6-9D8E-51A3A9FF7DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_State", "Behavioral\State\002_State\002_State.csproj", "{805D3E36-E3FB-46B6-9D8E-51A3A9FF7DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Strategy", "Behavioral\Strategy\002_Strategy\002_Strategy.csproj", "{1EBDEB43-94E9-4433-8DA2-8A35339F834C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Strategy", "Behavioral\Strategy\002_Strategy\002_Strategy.csproj", "{1EBDEB43-94E9-4433-8DA2-8A35339F834C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Template_Method", "Behavioral\Template_Method\002_Template_Method\002_Template_Method.csproj", "{81292946-B7AF-444A-8F1E-E768040E5FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Template_Method", "Behavioral\Template_Method\002_Template_Method\002_Template_Method.csproj", "{81292946-B7AF-444A-8F1E-E768040E5FF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Visitor", "Behavioral\Visitor\002_Visitor\002_Visitor.csproj", "{5388EBB2-9E08-4735-9B7A-013F41170CBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Visitor", "Behavioral\Visitor\002_Visitor\002_Visitor.csproj", "{5388EBB2-9E08-4735-9B7A-013F41170CBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D323DF97-BD91-4AD9-9A19-A7EAEFBC4E3E}"
+	ProjectSection(SolutionItems) = preProject
+		About_En.txt = About_En.txt
+		About_Ru.txt = About_Ru.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
